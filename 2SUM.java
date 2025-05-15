@@ -19,7 +19,7 @@ public class Main
             
             if(sum==tar){
                 System.out.print("elements found at index "+ st +", "+en);
-                break;
+                return;
             }
             
             else if(tar < sum )
