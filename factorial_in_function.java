@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-// Main class
+// Main class 
 public class Main 
 {
     // Function to calculate the factorial of a number
