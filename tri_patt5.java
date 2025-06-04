@@ -1,5 +1,4 @@
-/* 
-Example Output:
+/*  Example Output:
 Enter the Number:4
    1 
   2 3 
