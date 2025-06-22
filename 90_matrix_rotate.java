@@ -5,7 +5,7 @@ class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
  
-        // Initialize the original 3x3 matrix
+        // Initialize the original 3x3 matrix 
         int[][] arr = new int[3][3];
         // Initialize the matrix to store the rotated result
         int[][] ans = new int[3][3];
