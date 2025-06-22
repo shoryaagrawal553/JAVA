@@ -3,7 +3,7 @@ import java.util.Scanner;
 // Main class 
 class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
  
         // Initialize the original 3x3 matrix 
         int[][] arr = new int[3][3];
