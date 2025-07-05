@@ -3,7 +3,7 @@ import java.util.Scanner; // Importing Scanner class for taking user input
 // Main class
 public class Main
 {
-    // Main method - execution starts here
+    // Main method - execution starts  here
     public static void main(String[] args) 
     {
         // Creating a Scanner object to take input from the user
