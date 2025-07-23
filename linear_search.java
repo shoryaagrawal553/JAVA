@@ -1,4 +1,4 @@
-import java.util.Scanner; // Import the Scanner class for user input
+ import java.util.Scanner; // Import the Scanner class for user input
  
 // Main class
 class Main { 
