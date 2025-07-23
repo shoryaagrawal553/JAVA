@@ -6,7 +6,7 @@ class Main {
         Scanner sc = new Scanner(System.in); // Create Scanner object for input
         
         // Initialize the array to be searched
-        int[] arr = {5, 2, 9, 12};
+        int[] arr = {5, 2, 9, 12}; 
        
         System.out.print("Enter the Key:"); // Prompt user for the key to search
         int key = sc.nextInt(); // Read the key value from user
