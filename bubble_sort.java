@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-  
+   
 class Main {    
     public static void main(String[] args) {
         // Create a scanner object (not used in this code, but can be used for user input if needed)
