@@ -1,5 +1,5 @@
 import java.util.Scanner; // Import the Scanner class for user input
-                        
+                         
 class Main {                     
     public static void main(String[ ]  args) { 
         Scanner sc = new Scanner(System.in); // Create a Scanner object to read input from the user 
