@@ -1,7 +1,7 @@
 import java.util.Scanner;
   
 // Main class       
-public class Main     
+public class Main      
 {
     // Function to calculate the factorial of a number
     static int fAct(int a)
