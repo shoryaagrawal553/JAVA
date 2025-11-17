@@ -5,7 +5,7 @@ class Main {
     public static void main(String[] args) 
     {
         Scanner sc = new Scanner(System.in); // Create a Scanner object for reading input
-        
+         
         int m = 3; // Define the size of the matrix (3x3)
         int[][] arr = new int[m][m]; // Declare a 2D array for the matrix
     
