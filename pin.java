@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 // Main class 
 class Main 
 {
