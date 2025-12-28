@@ -1,7 +1,7 @@
 import java.util.Scanner; // Importing Scanner class for input
    
 // Main class     
-public class Main   
+public class Main    
 {
     // Main method where the program execution begins
     public static void main(String[] args) 
