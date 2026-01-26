@@ -22,7 +22,7 @@ class Main {
         // Print the transpose of the matrix
         System.out.println("Transpose Matrix:");
         for (int i = 0; i < m; i++) 
-        {
+        { 
             for (int j = 0; j < m; j++) 
             {
                 System.out.print(arr[j][i] + " "); // Print the transposed element
