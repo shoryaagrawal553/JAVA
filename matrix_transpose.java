@@ -1,6 +1,6 @@
 import java.util.Scanner; // Import the Scanner class for user input
 
-// Define the Main class
+// Define the Main class 
 class Main {  
     public static void main(String[] args) 
     { 
